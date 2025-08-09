@@ -155,7 +155,6 @@ Authorization: Bearer ACCESS_TOKEN
 
 ##  Project Structure
 
-```
 blog_api/                  
 ├── blog/                   
 │   ├── __init__.py
@@ -173,8 +172,16 @@ blog_api/
 │   ├── urls.py             
 │   └── wsgi.py
 ├── manage.py              
-├── requirements.txt       
-             
----
+├── requirements.txt
 
 
+##  Project Demo
+<img width="1828" height="900" alt="1" src="https://github.com/user-attachments/assets/1454eba7-7494-4f2a-914e-93f6ad664ce8" />
+<img width="1402" height="775" alt="2" src="https://github.com/user-attachments/assets/a925562f-41d8-4693-921b-464dc3b1a8c6" />
+<img width="1637" height="891" alt="3" src="https://github.com/user-attachments/assets/8c7c18c8-e99f-4ad5-8f64-71705e45229a" />
+<img width="1375" height="856" alt="4" src="https://github.com/user-attachments/assets/9599644f-29b7-44c5-9fa5-50a4fd6eae76" />
+<img width="1365" height="855" alt="5" src="https://github.com/user-attachments/assets/5928934b-9d8b-40f2-99e5-448ae4bd4a51" />
+<img width="1579" height="883" alt="6" src="https://github.com/user-attachments/assets/9a5500b8-0e04-47ca-b5b7-3d62d1aef433" />
+<img width="1375" height="833" alt="7" src="https://github.com/user-attachments/assets/aa814ce8-822f-455e-b9b8-e85fc46d83a5" />
+<img width="1374" height="819" alt="8" src="https://github.com/user-attachments/assets/63ce310f-0ef2-45d8-8da1-77c9c26db7d9" />
+<img width="1369" height="822" alt="9" src="https://github.com/user-attachments/assets/7e4ee368-f12b-439f-ae56-4680c745db27" />
