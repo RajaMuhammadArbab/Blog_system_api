@@ -157,7 +157,7 @@ Authorization: Bearer ACCESS_TOKEN
 
 blog_api/                  
 ├── blog/                   
-│   ├── __init__.py
+│   ├──__init__.py
 │   ├── admin.py
 │   ├── apps.py
 │   ├── models.py          
@@ -166,7 +166,7 @@ blog_api/
 │   ├── urls.py            
 │   └── migrations/         
 ├── blog_api/               
-│   ├── __init__.py
+│   ├──__init__.py
 │   ├── asgi.py
 │   ├── settings.py         
 │   ├── urls.py             
